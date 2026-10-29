@@ -15,12 +15,12 @@ Long queues, overcrowding, and lost productive time during the lunch rush, combi
 ## Approach
 Delivered the full BA lifecycle for this capstone:
 - **Business case** — problem statement, objectives, 3 options considered (do nothing / expand canteen capacity / implement an ordering system), recommended option, and full cost-benefit analysis
-- **Stakeholder analysis matrix** — 10 stakeholder groups scored by influence and impact, from Senior Management down to Delivery staff
-- **RACI matrix** — 17 project activities mapped across 10 roles
+- **Stakeholder analysis matrix** : 10 stakeholder groups scored by influence and impact, from Senior Management down to Delivery staff
+- **RACI matrix** : 17 project activities mapped across 10 roles
 - **43 functional requirements** (FR001–FR043), prioritized High/Medium
-- **AS-IS and TO-BE process maps** — current manual queue-and-serve process vs. the future online-order-and-deliver process, both swimlaned by role
-- **User stories & acceptance criteria** — 17 stories covering employees, Menu Manager, Canteen Manager, Chef, Delivery, Payroll, and Admin
-- **Product backlog and 3-sprint plan** in Jira (Sprint 1: menu & ordering, Sprint 2: checkout & prep, Sprint 3: delivery, feedback, payroll & access control)
+- **AS-IS and TO-BE process maps** : current manual queue-and-serve process vs. the future online-order-and-deliver process, both swimlaned by role
+- **User stories & acceptance criteria** : 17 stories covering employees, Menu Manager, Canteen Manager, Chef, Delivery, Payroll, and Admin
+- **Product backlog and 3-sprint plan**: in Jira (Sprint 1: menu & ordering, Sprint 2: checkout & prep, Sprint 3: delivery, feedback, payroll & access control)
 
 ## Recommended solution
 A web-based Canteen Ordering System letting employees order lunch online before an 11am cut-off and receive it delivered to their workstation — with menu management, an order dashboard for the canteen team, delivery tracking, feedback capture, and a monthly payroll deduction report.
