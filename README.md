@@ -14,7 +14,7 @@ Long queues, overcrowding, and lost productive time during the lunch rush, combi
 
 ## Approach
 Delivered the full BA lifecycle for this capstone:
-- **Business case** — problem statement, objectives, 3 options considered (do nothing / expand canteen capacity / implement an ordering system), recommended option, and full cost-benefit analysis
+- **Business case** : problem statement, objectives, 3 options considered (do nothing / expand canteen capacity / implement an ordering system), recommended option, and full cost-benefit analysis
 - **Stakeholder analysis matrix** : 10 stakeholder groups scored by influence and impact, from Senior Management down to Delivery staff
 - **RACI matrix** : 17 project activities mapped across 10 roles
 - **43 functional requirements** (FR001–FR043), prioritized High/Medium
