@@ -1,7 +1,9 @@
 # Canteen Ordering System — Business Analysis Capstone Project
 
 **Company (case study):** Unilever UK Office
+
 **Project type:** Business Analysis Capstone — full project lifecycle
+
 **Methodology:** Agile (Scrum, Jira — 3 sprints, 2-week cycles)
 
 ## Background
@@ -31,7 +33,12 @@ A web-based Canteen Ordering System letting employees order lunch online before 
 - **ROI: 1,100%**
 
 ## Success metrics defined
-≥50% reduction in average lunch waiting time · ≥60% employee adoption within 3 months · ≥95% order delivery accuracy · ≥90% on-time delivery · ≥30% food wastage reduction · ≥80% employee satisfaction · ≥98% payroll deduction accuracy
+≥50% reduction in average lunch waiting time · 
+≥60% employee adoption within 3 months ·
+≥95% order delivery accuracy · 
+≥90% on-time delivery · ≥30% food wastage reduction · 
+≥80% employee satisfaction · 
+≥98% payroll deduction accuracy
 
 ## Skills demonstrated
 Business case development · cost-benefit analysis, ROI & payback period · stakeholder analysis · RACI matrix · AS-IS/TO-BE process mapping · functional requirements documentation · user stories & acceptance criteria · Agile/Scrum backlog and sprint planning · risk register
